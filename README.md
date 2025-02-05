@@ -19,4 +19,4 @@ For each design, the prior calibrations are executed in the file ‘<METHOD>_pri
 
 Graphs are drawn in the file ‘graphs.R’
 
-The case study is explored in the files ‘case_study_gandhi_stop.R’ and ‘case_study_gandhi_no_stop.R’, corresponding to using a stopping rule and not respectively. All methods are implemented in each file.
+The case study is explored in the files ‘case_study_gandhi_stop.R’ and ‘case_study_gandhi_no_stop.R’, corresponding to using a stopping rule and not respectively. 'patient_genration_case_study.R' contains functions fo patient generation for the case study. All methods are implemented in each file.
